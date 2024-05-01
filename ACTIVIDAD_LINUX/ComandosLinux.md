@@ -1,4 +1,5 @@
-<img src="https://github.com/gcdavidq/Data-Communication-And-Networks_Group/blob/main/Images/logo_upch.png" style="width: 50%;" />
+
+![](https://github.com/gcdavidq/Data-Communication-And-Networks_Group/blob/main/Images/logo_upch.png)
 
 ## **ACTIVIDAD_COMANDOS LINUX** 
 ----------------

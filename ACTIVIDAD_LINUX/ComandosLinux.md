@@ -1,4 +1,4 @@
-![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/logo-upch-ing-des.webp) 
+<img src="https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/logo-upch-ing-des.webp" alt="Texto alternativo" style="width: 50%;" />
 
 ## **ACTIVIDAD_COMANDOS LINUX** 
 ----------------

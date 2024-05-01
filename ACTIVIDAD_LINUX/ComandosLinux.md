@@ -2,7 +2,9 @@ Primera vista del terminal de Linux Ubuntu:
 
 ![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.001.jpeg)
 
-Para probar que es funcional podemos tratar de ejecutar cualquier comando de manera aleatoria, veremos que nos genera un error como a continuación:![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.002.jpeg)
+Para probar que es funcional podemos tratar de ejecutar cualquier comando de manera aleatoria, veremos que nos genera un error como a continuación:
+
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.002.jpeg)
 
 Como primer comando, empleamos el comando PWD, el cual nos darà el directorio actual de trabajo en el que nos encontramos:
 

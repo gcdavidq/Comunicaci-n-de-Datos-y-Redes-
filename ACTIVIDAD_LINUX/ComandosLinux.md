@@ -1,4 +1,4 @@
-<img src="https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/logo-upch-ing-des.webp" alt="Texto alternativo" style="width: 50%;" />
+<img src="https://github.com/gcdavidq/Data-Communication-And-Networks_Group/blob/main/Images/logo_upch.png" style="width: 50%;" />
 
 ## **ACTIVIDAD_COMANDOS LINUX** 
 ----------------

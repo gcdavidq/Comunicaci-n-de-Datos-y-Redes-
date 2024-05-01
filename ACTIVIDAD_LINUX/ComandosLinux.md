@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/gcdavidq/Data-Communication-And-Networks_Group/blob/main/Images/logo_upch.png" alt="" style="width: 50%;" />
+  <img src="https://github.com/gcdavidq/Data-Communication-And-Networks_Group/blob/main/Images/logo_upch.png" alt="" style="width: 20%;" />
 </p>
 
 

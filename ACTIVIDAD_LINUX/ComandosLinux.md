@@ -210,46 +210,46 @@ Al colocarse la barra invertida, se evita que $S se ejecute, pues se lee como un
 
 **File Permissions**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.047.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.047.png)
 
 Se muestra información extensa del comando bash, el cual se encuentra dentro del directorio bin.
 
 CHMOD
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.048.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.048.png)
 
 LO que se pretende hacer es cambiar los permisos del archivo some\_file, sin embargo, nos aparece que el archivo no existe. Aun asì, podemos interpretar que el “600” representa al modo octal que se està empleando, en este caso significa que solo el propietario puede leer y editar el archivo.
 
 **Becoming the Superuser for a Short While**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.049.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.049.png)
 
 Estamos intentando ingresar al superusuario, el cual puede servir para realizar importantes tareas de administración del sistema. Sin embargo, nos pide una contraseña.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.050.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.050.png)
 
 Esta es otra forma de acceder a los privilegios del superusuario, en este caso nos pide la contraseña para poder acceder al usuario root.
 
 **JOB CONTROL**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.051.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.051.png)
 
 Muestra un grafico de la carga del sistema en el entorno de escritorio X Window System.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.052.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.052.png)
 
 Hace lo mismo que el anterior pero en segundo plano. **Listing Running Processes**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.053.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.053.png)
 
 Primero, jobs sirve para mostrar que procesos hay en segundo plano, en nuestro caso, ninguno. Por otro lado, ps muestra todos los procesos de ejecución del sistema.
 
 **Killing a Process**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.054.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.054.jpeg)
 
 **A Little More About kill**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.055.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.055.png)
 
 Lo primero que hacemos es usar ps para identificar el PID del proceso que queremos terminar. Lo ideal es emplear sigterm y sigkill para intentar terminar el proceso con el PDO 27127, sin embargo, a mi me apareció un error al momento de ejecutar las líneas de comando. Ello no descarta que de manera ideal no deben existir errores asì.

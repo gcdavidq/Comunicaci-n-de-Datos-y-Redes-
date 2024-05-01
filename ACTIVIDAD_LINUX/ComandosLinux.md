@@ -1,3 +1,8 @@
+## **ACTIVIDAD_COMANDOS LINUX** 
+----------------
+Alumno: Quezada Marceliano Gian Carlos
+----------------
+
 Primera vista del terminal de Linux Ubuntu:
 
 ![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.001.jpeg)

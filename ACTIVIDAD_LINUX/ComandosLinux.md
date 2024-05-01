@@ -1,50 +1,50 @@
 Primera vista del terminal de Linux Ubuntu:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.001.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.001.jpeg)
 
-Para probar que es funcional podemos tratar de ejecutar cualquier comando de manera aleatoria, veremos que nos genera un error como a continuación:![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.002.jpeg)
+Para probar que es funcional podemos tratar de ejecutar cualquier comando de manera aleatoria, veremos que nos genera un error como a continuación:![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.002.jpeg)
 
 Como primer comando, empleamos el comando PWD, el cual nos darà el directorio actual de trabajo en el que nos encontramos:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.003.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.003.jpeg)
 
 También tenemos otro comando importante, el cual es ls, este nos listarà los archivos que actualmente tenemos:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.004.jpeg)Para cambiar el directorio de trabajo en el que estamos usamos “cd”, con este comando podemos acceder a una ruta específica del laboratorio. Para ejecutar dicho comando, tecleamos cd, seguido por el nombre de la ruta deseada.
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.004.jpeg)Para cambiar el directorio de trabajo en el que estamos usamos “cd”, con este comando podemos acceder a una ruta específica del laboratorio. Para ejecutar dicho comando, tecleamos cd, seguido por el nombre de la ruta deseada.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.005.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.005.jpeg)
 
 Continuando,aprenderemos a movernos usando rutas relativas. Para ello, usaremos un par de notaciones especiales, el “.” y “..” ; la primera se refiere a la ruta del trabajo en si, mientras que la segunda se refiere a la ruta padre de la misma ruta de trabajo:
 
 Para realizar esta demostración, empezaremos realizando el proceso pero colocando la ruta completa. Lo que se quiere lograr, es regresar al directorio padre de la ruta de trabajo.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.006.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.006.jpeg)
 
 Ahora, haremos lo mismo pero usando una ruta relativa.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.007.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.007.jpeg)
 
 Como se aprecia, de ambas formas conseguimos regresar al directorio padre, sin embargo, con la segunda se puede considerar más sencillo y práctico.
 
 Ahora, aplicaremos el proceso de manera inversa, con la ruta padre llegaremos al directorio de trabajo, también de las 2 formas ya explicadas:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.008.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.008.jpeg)
 
 Ahora, haremos lo mismo pero empleando la ruta relativa:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.009.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.009.jpeg)
 
 **TRABAJANDO CON COMANDOS: TYPE**
 
 -Para saber que tipo de comando es uno en particular, podemos emplear al shell “type”, el cual funciona de la siguiente manera:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.010.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.010.jpeg)
 
 **WHICH**
 
 -Para saber que programa instalado se està ejecutando en el sistema podemos emplear “which”:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.011.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.011.jpeg)
 
 **Type**
 
@@ -52,7 +52,7 @@ Ahora, haremos lo mismo pero empleando la ruta relativa:
 
 shell anteriormente visto, para ello, escribimos “type” seguido del shell que necesitamos averiguar:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.012.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.012.jpeg)
 
 **- - Help**
 
@@ -62,39 +62,39 @@ Otra forma de buscar la opción de ayuda es empleando “--help”, el cual nos 
 
 Lo que nos proporciona este comando es una especie de manual, el cual contiene informacion detalla de como usar este comando y sus diferentes funciones. A diferencia de “--help”, con man tenemos informaciòn màs detallada:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.013.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.013.jpeg)
 
 **REDIRECCIÒN I/O SALIDAS STANDAR**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.014.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.014.jpeg)
 
 Lo que acà estamos haciendo es que liste los archivos y directorios del directorio actual y que guarde dicha lista en el archivo “text\_list..txt”
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.015.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.015.jpeg)
 
 A diferencia del anterior, con este comando lo que buscamos es añadir la listà que se crearà la final de la informacion que tiene el archivo, y si es que no existe crearemos uno.
 
 **Entrada Estandar:**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.016.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.016.jpeg)
 
 Lo que acabamos de hacer con este comando es primero, tomar la información del archivo “file\_list.txt” y, con ayuda de sort, ordenar la información dentro de aquella lista, por ultimo, se mostrarà el resultado en la salida estándar que vendria a ser la pantalla en este caso.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.017.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.017.png)
 
 Esta última línea de comando se divide en dos partes, primero, como en la anterior, ordenamos la lista existente en el archivo ya mencionado, pero ademàs se crea un nuevo archivo y se agrega dicha lista ordenada.![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.018.jpeg)
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.019.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.019.png)
 
 En este caso, la primera parte del comando “ls -l”, nos listarà los archivos y directorios en el directorio actual con detalles extendidos, luego, se traslada esta lista hacia less, el cual nos permitirà desplazarnos entre los datos, de arriba hacia abajo.
 
 **EXPANSIÓN**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.020.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.020.jpeg)
 
 Lo que acabamos de hacer es mostrar un mensaje en la salida mediante el comando echo, el cual sirve para imprimir mensajes en la salida estándar
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.021.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.021.jpeg)
 
 En este otro ejemplo, tambien aplicamos echo junto con el comodin \*, el cual nos muestra una lista de todos los archivos y directorios.
 
@@ -102,79 +102,79 @@ En este otro ejemplo, tambien aplicamos echo junto con el comodin \*, el cual no
 
 Veamos diferentes formas en las que se emplean los comodines:
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.022.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.022.jpeg)
 
 Muestra los archivos o directorios cuyos nombres empiecen con D
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.023.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.023.jpeg)
 
 Muestra los archivos y escritorios que terminen con s.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.024.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.024.jpeg)
 
 Muestra los archivos y directorios cuyos nombres empiecen con mayuscula.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.025.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.025.jpeg)
 
 Muestra la ruta de los directorios llamados share que se encuentren dentro de usr. **Tilde Expansion**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.026.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.026.jpeg)
 
 Imprime la ruta completa del directorio principal del actual usuario.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.027.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.027.jpeg)
 
 Imprime la ruta del directorio principal del usuario “foo”, si no existe, solo imprimirà el supuesto nombre del usuario.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.028.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.028.jpeg)
 
 Imprime en pantalla una operaciòn aritmètica, el $ nos ayudarà a realizar las evaluaciones aritméticas en la linea de comandos.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.029.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.029.jpeg)
 
 Imprime un mensaje y el resultado de la operaciòn. **Brace Expansion**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.030.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.030.jpeg)
 
 Se muestra una lista de cadenas en las que se tiene que combinar los valores de la cadena con Front y Back
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.031.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.031.jpeg)
 
 Genera una lista de cadenas en las que se combina Number con cada uno de los números en el rango de 1 a 5.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.032.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.032.jpeg)
 
 Genera una lista de caracteres que van de Z a A
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.033.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.033.jpeg)
 
 Genera listas con las posibles combinaciones dentro de cada subconjunto y al final imprime toda slas combinaciones,
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.034.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.034.jpeg)
 
 En este grupo de comandos primero: Creamos el directorio Photos, luego cambiamos el directorio de trabajo al directorio recién creado. En la tercera linea de comandos, se crean varios directorios, en el primer conjunto se simulan los años, y en el segundo los meses, por último, se lista todos los directorios creados.
 
 **Parameter Expansion**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.035.jpeg)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.035.jpeg)
 
 Imprime el nombre actual del usuario.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.036.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.036.png)
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.037.jpeg)Lo primero que se hace es imprimir todas las variables de entorno existentes en el sistema, para después presentarlas de manera paginada, permitiendo desplazarse de arriba hacia abajo.
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.037.jpeg)Lo primero que se hace es imprimir todas las variables de entorno existentes en el sistema, para después presentarlas de manera paginada, permitiendo desplazarse de arriba hacia abajo.
 
 **Command Substitution**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.038.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.038.png)
 
 Imprime una lista de todos los archivos y directorios en el escritorio actual.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.039.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.039.png)
 
 Muestra información detallada del comando cd, incluyendo permisos.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.040.jpeg)Primero, lista todos los archivos en el directorio /usr/bin, pero luego, especifica en esa parte para que la salida solo sea de archivos zip. Luego, con file, nos dirà que tipo de archivo es el ejecutable zip.
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.040.jpeg)Primero, lista todos los archivos en el directorio /usr/bin, pero luego, especifica en esa parte para que la salida solo sea de archivos zip. Luego, con file, nos dirà que tipo de archivo es el ejecutable zip.
 
 ![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.041.png)
 
@@ -182,29 +182,29 @@ Primero se encuentra la ruta ejecutable del comando cp, para que despues se muer
 
 **Quoting**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.042.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.042.png)
 
 Acà podemos apreciar un tipo de fallo, si se puede decir así. Lo que pasa es que, como sabemos, el signo $ se emplea para variables o realizar sustitución de comandos. En este caso, se està emplean para buscar el valor de la variable 100, y al no encontrarlo imprime un valor nulo.
 
 **Double Quotes**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.043.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.043.png)
 
 ESte es otro caso bastante común, pues mientras que nosotros queremos que “two words.txt ” que se trate como un solo argumento, el sistema lo trata como dos argumentos diferentes, de ahì el error.
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.044.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.044.png)
 
 En este otro caso, en el que se usa comillas dobles para asegurar que el comando interprete correctamente el nombre del archivo. SIn embargo, al no existir un archivo con ese nombre, nos arroja dicho error.
 
 **Single Quotes**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.045.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.045.png)
 
 **La entrada de los 3 comandos parece similar, pero no es así, generando que sus resultados tampoco. Todo varía en cómo se emplean las comillas. En el primer caso no hay comillas, por lo que la linea como se espera. Para el segundo caso, hay comillas dobles, ello genera que lo que esté entre llaves no se ejecute, sin embargo, el $USER si se ejecuta, ya que no está en las comillas. Por último, el ejemplo con camillas simples, en este caso, todo el comando se interpreta como una cadena string.**
 
 **Escaping Characters**
 
-![](Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.046.png)
+![](https://github.com/gcdavidq/Gian_Quezada_CDyR/blob/main/ACTIVIDAD_LINUX/Images/Aspose.Words.262015e2-4d3a-4a8f-91ba-6402131e8980.046.png)
 
 Al colocarse la barra invertida, se evita que $S se ejecute, pues se lee como una cadena o caracter.
 

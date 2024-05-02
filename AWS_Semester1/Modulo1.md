@@ -1,4 +1,6 @@
+## INFRAESTRUCTURA GLOBAL
 
+-----------------------
 
 ## Preguntas de Enfoque
 
@@ -13,6 +15,8 @@ Almaceno imagenes, videos y documentos. Los riesgos varian desde posibles filtra
 **3. ¿De qué manera Internet le ha hecho la vida más fácil? ¿De qué manera Internet le ha hecho la vida más difícil? ¿Qué es lo que desearía poder hacer en línea, pero la tecnología aún no existe?**
 
 Me ha hecho la vida más facil en cuanto a la conexión con las demas personas y mi información personal: Realizar llamadas, enviar mensajes, guardar fotos y videos, poder visualizar estas fotos y videos desde cualquier lugar del mundo, con solo tener acceso a internet. No podría identificar una manera en la que el internet haya complicado mi vida. Lo que desearía poder hacer en linea, pero que aun no existe la tecnologia para eso es tener en tiempo real camaras de videvigilancia integradas con inteligencia artificial a escala de una gran ciudad, así, cuando ocurra algun problema, sea robo o demás, se identifique al causante en cuestión de minutos.
+
+-------------------------------
 
 ## Actividad 1: 
 
@@ -39,7 +43,7 @@ Una de las fuentes de las que obtuve mi informacíon es de la propia pagina de A
 
 
 **Si un amigo cercano o familiar estuviera empezando un negocio y quisiera utilizar los servicios en la nube, ¿qué consejo daría?**
-
+--------------------------
 
 ## Conexión Potencial
 

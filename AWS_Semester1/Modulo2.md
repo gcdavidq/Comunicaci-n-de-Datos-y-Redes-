@@ -1,5 +1,7 @@
 ## ESTRUCTURAS DE LA NUBE
 
+-----------------------------------
+
 ## Preguntas de Enfoque
 
 **¿Cómo obtiene su equipo información de Internet? Cuando abre un sitio web, ¿de dónde viene el sitio web? ¿Quién proporciona los datos? Utilice lo que ha aprendido sobre informática y informática en la nube en su respuesta.**
@@ -14,6 +16,7 @@ Se podria decir que un programa que se ejecuta completamene en la nube es google
 
 Considero que hoy en dia todos los serviciós se encuentran en la nube, desde archivos personales hasta situaciones de la vida diaria, como tomar un taxi. Esto se da porque las personas etdendemos la necesidad de tener toda la información y servicios posibles al alcance de nuestra mano, es decir, tratamos de hacer las cosas más agiles, por ejemplo, es mucho más sencillo usar Uber y pedir un taxi que salir a la calle y esperar a que pase uno, o es mucho más sencillo comprar un producto por Mercado Libre a ir a cada tienda a buscar lo que necesitamos. 
 
+--------------------------------------
 
 ## Actividad 1: Visualización de la infraestructura global de AWS
 
@@ -21,6 +24,8 @@ Considero que hoy en dia todos los serviciós se encuentran en la nube, desde ar
 
 **¿Cómo se conectan las regiones, las zonas de disponibilidad y las ubicaciones de borde?**
 Su conexión es directa, se podria decir que una está dentro de otra. Para empezar, las regiones son las zonas extensas en una ubicación geografica. Ahora, dentro de estas regiones, existen las zonas de disponibilidad, las cuales están conectadas con un ancho de banda alto y baja latencia; y dentro de estas se encuentran los centros de datos. Por ultimo, las ubicaciones de borde alojan una red de entrega de contenido a los clientes, ello con el fin de que su información les llegue más rapido, es por ello que a cada cliente se le asigna la ubicación de borde más cerca a él geograficamente. 
+
+--------------------------------------------------------------------
 
 ## Actividad 2: Tipos de servicios en la nube
 
@@ -31,6 +36,8 @@ Software como servicio (SaaS): Se podría decir que este tipo de servicio es el 
 Plataforma como servicio (PaaS): En este tipo de servicio, el pediatrá tendria la completa libertad para diseñar su aplicación sin necesidad de preocuparse por los servidores que necesitará o la configuración de las redes. En este caso, necesitará de un equipo especialidado en programación para que sean capaces de programar su codigo fuente enfocado en las necesidades del pediatra. 
 
 Infraestructura como servicio (FaaS): Si bien no es la mejor opción por el hecho de estár enfocado a grandes empresas con un gran volumen de datos, lo puede usar en caso quiera tener un control especifico de su infraestructura informática como los servidores, redes y y almacenamiento, pero de manera virtual. 
+
+-------------------------------
 
 ## Conexión opcional:
 

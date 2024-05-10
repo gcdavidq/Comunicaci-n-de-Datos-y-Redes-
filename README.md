@@ -27,7 +27,7 @@ En esta parte, encontrarás información sobre:
 
 El repositorio está organizado de la siguiente manera:
 
-- **/Datos_y_Redes**: Contiene las actividades, proyectos y ejercicios realizados en el curso de Datos y Redes.
+- ![ACTIVIDADES_DESARROLLO](https://github.com/gcdavidq/Gian_Quezada_CDyR/tree/main/ACTIVIDADES_DESARROLLO): Contiene las actividades, proyectos y ejercicios realizados en el curso de Datos y Redes.
 - **/AWS**: Aquí encontrarás mis trabajos relacionados con los cursos de AWS.
 
 ## Contribuciones

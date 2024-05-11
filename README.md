@@ -39,5 +39,5 @@ Siéntete libre de revisar mis trabajos y realizar comentarios o sugerencias. ¡
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-Correo: ![gian.quezada@upch.pe](gian.quezada@upch.pe)
+Correo: [gian.quezada@upch.pe](gian.quezada@upch.pe)
 

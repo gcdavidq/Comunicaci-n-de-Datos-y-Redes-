@@ -28,7 +28,8 @@ En esta parte, encontrarás información sobre:
 El repositorio está organizado de la siguiente manera:
 
 - ![ACTIVIDADES_DESARROLLO](https://github.com/gcdavidq/Gian_Quezada_CDyR/tree/main/ACTIVIDADES_DESARROLLO): Contiene las actividades, proyectos y ejercicios realizados en el curso de Datos y Redes.
-- **/AWS**: Aquí encontrarás mis trabajos relacionados con los cursos de AWS.
+- ![ACTIVIDA_LINUX](https://github.com/gcdavidq/Gian_Quezada_CDyR/tree/main/ACTIVIDAD_LINUX): Aqui encontrarás una actividad en la que te explica los principales comandos de la consola de Linux/Ubuntu
+- ![AWS_SEMESTER1](https://github.com/gcdavidq/Gian_Quezada_CDyR/tree/main/AWS_Semester1):Aquí encontrarás mis trabajos relacionados con los cursos de AWS.
 
 ## Contribuciones
 

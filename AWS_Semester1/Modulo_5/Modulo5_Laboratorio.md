@@ -1,7 +1,7 @@
-# LABORATORIO N°5
+# LABORATORIO N°5 - CREACION DE UN BUCKET S3
 ### Evidencias del laboratorio elaborado
 
-##  **1.- CREAR UN BUCKET DE S3 MEDIANTE AWS CLI
+##  **1.- CREAR UN BUCKET DE S3 MEDIANTE AWS CLI**
 
 1.- Abrimos CloudShell y creamos un nuevo bucket con el nombre definido por nosotros mediante la linea de comandos:
 

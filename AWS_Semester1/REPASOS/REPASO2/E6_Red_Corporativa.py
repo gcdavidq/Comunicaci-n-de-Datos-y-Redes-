@@ -1,3 +1,10 @@
+''''
+Ejercicio 6: Simulacion completa de una Red Corporativa
+Diseñar y simular una red corporativa completa utilizando Python. La red debe incluir
+routers, switches, y dispositivos finales con direccionamiento IP. Se debe implementar el
+enrutamiento estático y dinámico entre subredes, y mostrar la topología de la red
+'''
+
 import networkx as nx
 import matplotlib.pyplot as plt
 from ipaddress import ip_network, ip_address
